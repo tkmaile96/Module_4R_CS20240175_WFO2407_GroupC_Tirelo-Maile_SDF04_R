@@ -24,7 +24,7 @@ Your goal is to identify and fix the CSS properties causing the overlap and ensu
 
 #### **Getting Started**
 
-You have everything you need to start your project using the CodePen starter project. This CodePen contains the HTML with all the pastry elements and the CSS you need to debug. Do not change the HTML code.
+You have everything you need to start your project using the GitHub Starter repo project. This starter repo contains the HTML with all the pastry elements and the CSS you need to debug. Do not change the HTML code.
 
 
 #### What to Do
