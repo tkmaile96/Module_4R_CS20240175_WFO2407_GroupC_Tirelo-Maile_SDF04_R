@@ -14,7 +14,7 @@ Your task is to debug the CSS at CodeSpace Cafe so that the pastries are neatly 
 ### The Problem
  The HTML includes a counter and four pastry elements, but they are not properly spaced and overlap each other. 
 
-![alt text](./README.md)
+![alt text](./images/problem.png)
 
 ### The Solution
 
