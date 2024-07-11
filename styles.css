@@ -17,8 +17,11 @@ body {
     background-size: 20px 20px;
     padding: 80px;
     border-radius: 10px;
-    width: 80%;
-    position: relative; 
+    width: 80%; 
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
   }
   
   .pastry {
@@ -26,7 +29,7 @@ body {
     padding: 20px;
     border-radius: 50%;
     font-size: 18px;
-    position: absolute; 
+    
   }
   
   .pastry img {
