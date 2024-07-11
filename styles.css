@@ -17,7 +17,7 @@ body {
     background-size: 20px 20px;
     padding: 80px;
     border-radius: 10px;
-    width: 80%; 
+    width: 80%;    
     align-items: center;
     display: flex;
     justify-content: space-around;
@@ -51,5 +51,8 @@ body {
   
   .pastry4 { /* Jelly Roll */
     background-color: #7fa8f0; 
+  }
+  .pastry1{
+    background-color: #f0a8be;
   }
   
